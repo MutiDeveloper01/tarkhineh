@@ -1,3 +1,5 @@
+@import url(./style.css);
+@import url(./_mobile.css);
 :root{
         --Tint-1:#E5F2E9;
         --Tint-2:#CAE4D3;
